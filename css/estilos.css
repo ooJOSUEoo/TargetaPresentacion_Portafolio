@@ -199,13 +199,14 @@ a {	text-decoration: none; }
 	font-style:20px;
 	width: 50px;
 	height: 50px;
-	font-line:20px;
 	padding: 14px 0;
 	border-radius: 50%;
 	color: #fff;
 	margin: 0 10px;
 }
 
-.redes-sociales .behance { background: #1769ff; }
-.redes-sociales .facebook { background: #3b5998; }
-.redes-sociales .twitter { background: #55acee; }
+.redes-sociales .twitter{ background: #1da1f2; }
+.redes-sociales .facebook{ background: #3b5998; }
+.redes-sociales .youtube{ background: #cd201f; }
+.redes-sociales .github{ background: #666666; }
+.redes-sociales .instagram{ background: #3f729b; }
